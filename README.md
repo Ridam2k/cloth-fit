@@ -1,7 +1,8 @@
 
 # ClothFit
  
-The main idea is a calculation of the ideal size of clothing based on human physiological data. It will be useful for everyone who wants to find the perfect size of clothing and always has this problem
+The main idea is a calculation of the ideal size of clothing based on human physiological data. 
+It will be useful for everyone who wants to find the perfect size of clothing and always has this problem
 
 ## Tech stack
 
